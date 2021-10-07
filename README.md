@@ -1,4 +1,4 @@
-# Vehicle-Summons-System
+# Vehicle Summons System
 Vehicle summons system. Completed on 27 December 2020.
 
 A vehicle summons system the use of backend data using relational database(phpMyAdmin). The SQL for the database is in the sql.txt/sql.sql file.
