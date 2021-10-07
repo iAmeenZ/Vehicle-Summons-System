@@ -1,0 +1,82 @@
+.section1 {
+	width: 60%;
+	height: 5em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5em;
+}
+
+.section1-text {
+	float: left;
+	text-align: left;
+	font-family: Trebuchet MS;
+	color: rgba(0, 0, 0, 0.8);
+	font-size: 27px;
+}
+
+.insert-label {
+	margin-top: 5em;
+	text-align: center;
+	font-family: Trebuchet MS;
+	color: rgba(10, 10, 10,0.7);
+	text-shadow: 1px 1px rgba(100,100,100,0.2);
+}
+
+.section2 {
+	background-color: rgba(130, 200, 255, 0.8);
+	width: 50em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1em;
+	height: 6em;
+	border-radius: 10px;
+	padding: 30px 35px 30px 50px;
+	transition: 0.3s;
+}
+.section2:hover {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.section2-text {
+	font-family: Trebuchet MS;
+	font-size: 20px;
+	color: rgba(0,0,0,0.8);
+	margin-left: 10px;
+}
+
+
+input[type=text] {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 7px;
+  box-sizing: border-box;
+  font-size: 25px;
+  text-transform: uppercase;
+}
+
+input[type=submit] {
+  background-color: rgb(60, 130, 255);
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  height: 4.1em;
+  width: 10em;
+  position: absolute;
+  margin-left: 10px;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+  transition: 0.3s;
+  display: inline-block;
+  color: rgba(255,255,255,0.9);
+  font-family: Arial;
+  font-weight: bold;
+  letter-spacing: .5px;
+}
+
+input[type=submit]:hover {
+	background-color: rgb(30, 100, 255);
+}

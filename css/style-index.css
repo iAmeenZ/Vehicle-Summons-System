@@ -1,0 +1,51 @@
+.section1 {
+	width: 60%;
+	height: 20em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 11em;
+}
+
+.section1-text {
+	float: left;
+	text-align: left;
+	font-family: Trebuchet MS;
+	color: rgba(0, 0, 0, 0.8);
+	font-size: 27px;
+}
+
+.section1-text-desc {
+	margin-top: 10px;
+	color: rgb(250,100,100);
+}
+
+.section1-right {
+	float: right;
+	font-size: 40em;
+	opacity: 0.15;
+	position: absolute;
+	margin-left: 1.6em;
+	margin-top: .2em;
+	height: 1em;
+}
+
+.getstart-button {
+	background-color: rgba(100, 100, 100, 0.9);
+	border: none;
+	color: rgba(255, 255, 255, 0.85);
+	padding: 10px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	outline: none;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 5px;
+	transition: 0.3s;
+	letter-spacing: 2px;
+}
+.getstart-button:hover {
+	background-color: rgba(250, 80, 80, 0.8);
+	color: white;
+}

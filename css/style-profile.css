@@ -1,0 +1,107 @@
+.section1 {
+	width: 100%;
+	margin-top: 80px;
+}
+
+.section1-headerText {
+	background-color: rgba(250, 100, 100, 0.4);
+	border: none;
+	color: rgba(0, 0, 0, 0.8);
+	padding: 15px 32px;
+	text-align: center;
+	width: 50%;
+	font-size: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Candara;
+}
+
+.section2 {
+	width: 100%;
+	margin-top: 5em;
+	background-color: rgba(255, 255, 255, 0.9);
+	padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+.section2-content {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.section2-edit-btn {
+	float: right;
+}
+
+.section2-row {
+	display: inline-block;
+	position: absolute;
+	margin-top: 30px;
+	margin-left: 6.3em;
+}
+
+.section2-content label {
+	font-size: 19px;
+	font-family: Trebuchet MS;
+	color: rgba(250,80,80,0.85);
+}
+
+.section2-content h2 {
+	font-family: Trebuchet MS;
+	color: rgba(0,0,0,0.7);
+}
+
+.section2-row2 {
+	display: inline-block;
+	margin-top: 30px;
+	margin-right: 9.2em;
+	margin-left: 2em;
+}
+
+h2 i {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  color: rgba(250,100,100,0.8);
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+h2 i:hover{
+	color: rgba(250,80,80,1);
+	font-size: 22px;
+}
+
+.pw-btn{
+	margin-top: 20px;
+	padding: 10px 30px 10px 30px;
+	margin-right: 20px;
+	outline: none;
+	transition: 0.5s;
+	float: right;
+	cursor: pointer;
+	border: none;
+	border-radius: 0px 50px 0px 50px;
+	background-color: rgb(250, 100, 100);
+	color: rgba(255,255,255,0.9);
+	font-family: Trebuchet MS;
+	letter-spacing: .5px;
+	font-weight: bold;
+	font-size: 15px;
+}
+.pw-btn:hover {
+	border-radius: 5px 5px 5px 5px;
+}
+
+
