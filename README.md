@@ -27,4 +27,6 @@ ADMIN PAGE :
 
 ![image](https://user-images.githubusercontent.com/40099907/136458416-50e8f28c-0a01-40cd-849f-8419c583245c.png)
 
+![image](https://user-images.githubusercontent.com/40099907/136459075-e514de1a-4b4a-47de-81b0-90996b8a8163.png)
+
 ![image](https://user-images.githubusercontent.com/40099907/136458543-d49bca05-d655-4296-b654-7df7a612396a.png)
